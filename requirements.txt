@@ -1,0 +1,4 @@
+cowsay==6.1
+pifiglet==2.18.0
+requests==2.32.3
+
